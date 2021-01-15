@@ -1,0 +1,15 @@
+#
+#
+# File: final.txt
+#
+# Names: Courtney and Cindy Lay
+#
+
+
+Project Team: Cindy Lay and Courtney Reed
+
+Project:
+Cindy Lay and Courtney Reed are working on the Text ID Project. Using tools we would like to decipher regular text from children's rhymes and etc.
+
+Project Goals:
+The goal of this project is to create program that will analyze Dr. Seuss texts and be able to identify similar writing techniques between his work and other children’ texts/ nursery rhymes. Because Dr. Seuss texts utilize generally short sentences and simple syntax, the program may have a hard time picking up on “his techniques”. But at the same time those techniques are a prominent component of the work. His rhyming style is very consistent and it would be interesting to see how the program picks up rhyming similarities across texts as well. Dr. Seuss also tends to use a lot of exclamation points so we plan to implement a feature that connects the frequency of exclamation points (in a row) to the likelihood that it’s a Seuss text. Furthermore, the writing style of Dr. Seuss is also quite distinct; we will do work that will allow us to identify Dr. Seuss texts from other texts based on frequent phrases Seuss may use. We know that many people could perhaps read "one fish,  two fish, red fish, blue fish" and identify Seuss's text. However, we will tackle the challenge of quantifying this skill. 
